@@ -10,5 +10,9 @@
 const robot.Name = 'Pepper';
 console.log(robot.Name)
 ```
+## Task list
 
+- [x] Add heading
+- [x] Add demonstration image
+- [x] Add demonstration code
 
